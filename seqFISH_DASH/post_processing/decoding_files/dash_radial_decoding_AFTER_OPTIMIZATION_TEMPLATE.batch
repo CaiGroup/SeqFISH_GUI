@@ -1,0 +1,16 @@
+
+#SBATCH --ntasks=1
+#SBATCH --mem=50G
+#SBATCH --cpus-per-task=5
+#SBATCH --time=03:00:00
+#SBATCH --array=$POSRNG$
+
+pwd; hostname; date
+echo This is task $SLURM_ARRAY_TASK_ID
+
+source /groups/CaiLab/personal/python_env/bin/activate_batch
+
+
+python dash_radial_decoding_batch_AFTER_OPTIMIZATION.py
+
+date
