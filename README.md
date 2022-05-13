@@ -4,10 +4,6 @@ Analysis pipeline for SeqFISH Data. Overview:
 
 ![alt text](view.png)
 
-## Disclamer
-
-If you run into any issues running this pipeline, please post an 'isssue' under the issues tab of github or reach out to me on slack.
-
 ## Description
 
 This is simple GUI (Graphical User-Interface) that can be used to run a processing pipeline for SeqFISH Data.
@@ -41,6 +37,9 @@ Run the following command within the SeqFISH_DASH_GUI folder that you downloaded
 ```
 python3 app.py
 ```
+## Help
+
+If you run into any issues running this pipeline, please post an 'isssue' under the issues tab of github or reach out to me on slack.
 
 
 ## Authors
