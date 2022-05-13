@@ -211,7 +211,7 @@ class Demo1:
                 
         global user_ent
         user_ent= tk.Entry(canvas1, width= 22)
-        user_ent.insert(0, "/central/groups/CaiLab/personal/Michal/raw/2021-12-06_p4p5p7_Neuro4181_5_repeat_pool2/")
+        user_ent.insert(0, "/central/groups/CaiLab/personal/Michal/raw/2022-02-11_p4p5p7_Neuro1098_5_pool1/")
         user_ent.focus_set()
         canvas1.create_window(220,240,window=user_ent)
         
