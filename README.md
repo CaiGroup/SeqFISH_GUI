@@ -41,12 +41,11 @@ python3 app.py
 
 If you run into any issues running this pipeline, please post an 'isssue' under the issues tab of github or reach out to me on slack.
 
-
 ## Authors
 
 
-GUI: [@Shaan Sekhon](https://www.linkedin.com/in/shaan-sekhon-1a217b154/)
-Processing pipeline: Katsuya Colon
+* GUI: [@Shaan Sekhon](https://www.linkedin.com/in/shaan-sekhon-1a217b154/)
+* Processing pipeline: Katsuya Colon
 
 ## Version History
 
