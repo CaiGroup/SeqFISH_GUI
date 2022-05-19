@@ -23,6 +23,11 @@ Then, run the following command within the SeqFISH_DASH_GUI folder that you down
 ```
 pip install -r requirements.txt
 ```
+Now, within this directory, run the following commands:
+'''
+git clone https://github.com/CaiGroup/seqFISH_DASH_Templates.git
+mv seqFISH_DASH_Templates seqFISH_DASH
+'''
 
 Then, within your *home* directory on the Caltech HPC, retrieve the a copy of the SeqFISH DASH pipeline, using the following commands:
 
